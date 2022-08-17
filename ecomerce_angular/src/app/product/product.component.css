@@ -1,0 +1,4 @@
+.tumbnailButton{
+    display:flex;
+    flex-direction: row;
+}

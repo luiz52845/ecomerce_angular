@@ -1,1 +1,39 @@
 /* You can add global styles to this file, and also import other style files */
+.content {
+  display: flex;
+  margin: 82px auto 32px;
+  padding: 0 16px;
+  max-width: 960px;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+* {
+    font-family: 'Roboto', Arial, sans-serif;
+    color: #616161;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: hsl(0, 0%, 100%);
+  }
+
+  body {
+    margin: 0;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: row;
+    padding:0px;
+  }
+  
+  router-outlet + *  {
+    padding: 0px;
+  }
+
+
+
+
+
+

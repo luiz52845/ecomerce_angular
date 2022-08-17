@@ -1,0 +1,10 @@
+ul{
+    margin-left:-20px;
+}
+li{
+    display: inline-block;
+    padding:11px;
+}
+.image{
+    border-radius:10px;
+}

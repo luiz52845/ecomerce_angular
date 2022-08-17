@@ -1,0 +1,42 @@
+.geral{
+    display:flex;
+    padding:0px;
+}
+
+.image{
+    border-radius:25px;
+}
+
+
+h1{
+    color:black;
+    font-weight: 900;
+}
+h2{
+    color:black;
+    font-weight: 900;
+    display:block;
+}
+h3{
+   color:hsl(26, 100%, 55%);
+}
+
+
+spam{
+
+    color: hsl(219, 9%, 45%)
+
+}
+
+.desconto{
+    color:hsl(26, 100%, 55%);
+    font-weight: 900;
+}
+p{
+    color: hsl(219, 9%, 45%)
+}
+
+*{
+    padding: 15px;
+}
+
